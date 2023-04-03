@@ -8,3 +8,5 @@ console.log(marks_class_12[5])
 console.log(marks_class_12[6]) // Will be Undefined bacuase index 6 does not exist
 console.log("The length of marks_class_12 is = ",marks_class_12.length)
 console.log(typeof marks_class_12) // return object
+
+
